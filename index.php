@@ -17,6 +17,7 @@
     </nav>
     <a class="cta"><button onclick="contact()">Contact</button></a>
   </header>
+  ik moet even wat toevoegen dus doe ik dit
   <div class="picture-under-nav">
     <div class="content-nav">
       <div id="text-nav">
