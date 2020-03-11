@@ -13,26 +13,7 @@
 </head>
 
 <body>
-  <header>
-    <h1><a href="index.html">HIM Essentials</a></h1>
-    <nav>
-      <ul class="nav-links">
-      <div class="dropdown-home">
-        <li><a class="dropdown-button-home" href="index.html">Home</a></li>
-        <div class="dropdown-content-home">
-          <li><a href="stock.html">On Stock</a></li>
-        </div>
-      </div>
-        <div class="dropdown-clothes">
-          <li><a class="dropdown-button-clothes" href="clothes.html">Clothes</a></li>
-          <div class="dropdown-content-clothes">
-            <li><a href="tshirts.html">T-Shirts</a></li>
-            <li><a href="jeans.html">Jeans</a></li>
-          </div>
-        </div>
-        <li><a href="watches.html">Watches</a></li>
-        <li><a href="about.html">About us</a></li>
-      </ul>
+
     </nav>
     <a class="cta"><button onclick="contact()">Contact</button></a>
   </header>
@@ -130,5 +111,9 @@
   print_r($_POST);
   echo "</pre>";
   ?>
+
+
+
+  </div>
 </body>
 </html>
